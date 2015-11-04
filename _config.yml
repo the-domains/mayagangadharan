@@ -1,0 +1,23 @@
+name: MayaGangadharan
+favicon: null
+layout_spectrum: 0.37525665503926575
+typography_spectrum: 0.19357611774466932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.28814064944162965
+  lightness: 0.7651156545616686
+  saturation: 0.20977627229876816
+  rhythmicContrast: 0.20487104845233262
+purpose: []
